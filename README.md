@@ -1,9 +1,14 @@
-# react-to-ghpages-template
+# React to GitHub Pages Template
 An template of a create-react-app being hosted on gh-pages
 
-## Steps Taken to Create This Tutorial
+## Install and run 'create-react-app' 
 
-1. Install `create react app` 
+Install `create react app` 
+
+```bash
+create-react-app my-app
+
+Instantiate a new project
 
 ```bash
 create-react-app my-app
