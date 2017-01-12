@@ -7,8 +7,9 @@ Install `create react app`
 
 ```bash
 create-react-app my-app
-
+```
 Instantiate a new project
 
 ```bash
 create-react-app my-app
+```
