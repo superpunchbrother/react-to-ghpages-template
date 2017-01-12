@@ -1,5 +1,6 @@
 {
   "name": "ghpages-template",
+  "homepage": "https://superpunchbrother.github.io/react-to-ghpages-template/",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
